@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
 <h3 align="center">A passionate full stack developer from Cary, NC</h3>
 
-- 🔭 I’m currently working on a fullstack application that is an online rental marketplace for glamping sites using Node.js, GraphQL, TypeScript, and React.js
+- 🔭 I’m currently working on a fullstack application that is an online rental marketplace for glamping sites using Node.js, GraphQL, MongoDB Atlas, TypeScript, and React.js
 
 - 🌱 I’m currently learning **Typescript, GraphQL**
 
