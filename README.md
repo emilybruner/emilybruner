@@ -19,4 +19,4 @@
 <a href="https://instagram.com/emilybinspace" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="emilybinspace" height="30" width="30" /></a>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/emilybruner/github-readme-stats)
+[![Emily's github stats](https://github-readme-stats.vercel.app/api?username=emilybruner)](https://github.com/emilybruner/github-readme-stats)
