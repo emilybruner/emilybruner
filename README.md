@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a fullstack application that is an online rental marketplace for glamping sites using Node.js, GraphQL, MongoDB Atlas, TypeScript, and React.js
 
-- 🌱 I’m currently learning **Typescript, GraphQL**
+- 🌱 I’m currently learning **Typescript, GraphQL, ReactNative**
 
 - 👯 I’m looking to collaborate on **projects with other content creators.**
 
